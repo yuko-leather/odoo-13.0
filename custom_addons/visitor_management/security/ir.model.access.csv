@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_visitor_data,access.visitor.data,model_visitor_data,,1,1,1,1
+access_re_visit,access.re.visit,model_re_visit,,1,1,1,1
